@@ -1,15 +1,13 @@
 ### Hi there 👋, my name is Vikram
-#### I am an aspiring Software Engineering Enthusiast
+#### I am an aspiring Software Engineer
 ![I am an aspiring Software Engineering Enthusiast](https://www.software.ac.uk/sites/default/files/images/content/header-02-compressor-1140x484.jpg)
 
-I am currently in my First Year of Uni at The University of Toronto
+I am currently in my Third Year at the University of Toronto
 
 Skills: VUE / REACT / JS / HTML / CSS / PYTHON / JAVA
 
-- 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning Data Structures 
-- 🤔 I’m looking for partners for Leetcode 
-- 💬 Ask me about History 
+- 🔭 I’m currently working on Vigil 
+- 🌱 I’m currently learning about local agents 
 - 📫 How to reach me: vmakkar035@gmail.com 
 - ⚡ Fun fact: I once fell asleep during an exam 
 
