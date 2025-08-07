@@ -12,6 +12,6 @@ Skills: VUE / REACT / JS / HTML / CSS / PYTHON / JAVA
 - ⚡ Fun fact: I once fell asleep during an exam 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vikram-makkar//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikram-makkar/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=999vik&show_icons=true)  
